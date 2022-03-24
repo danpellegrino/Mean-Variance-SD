@@ -6,7 +6,6 @@
  * Name: Daniel Pellegrino
  * Written: 4/18/2021; Last Modified 3/24/2022
  * Language: C++
- * Compiler: GNU GCC; IDE Code::Blocks 20.03
  */
 
 #include <iostream>
